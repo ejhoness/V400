@@ -4,6 +4,7 @@
 
 [v400 files](linksV400.md)
 
+[Especificação Hardware](HardwareFLSunV400.md)
 
 Há com super promoção comprei um v400 via aliexpress. 01/05/2025
 56% desc. real... ou não hoje em preparação de envio.
