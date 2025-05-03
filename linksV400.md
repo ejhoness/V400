@@ -4,6 +4,7 @@ Este documento lista tópicos e recursos importantes relacionados à impressora 
 
 * [Página Oficial do Produto FLSun V400](https://flsun.com/products/flsun-v400) (Geralmente inclui downloads de firmware, manuais, etc.)  
 * [Github Oficial do Produto FLSun V400]( https://github.com/Flsun3d/Flsun-V400) (Geralmente inclui downloads de firmware, manuais, etc.)
+* [SpeedPad Oficial do Produto FLSun](https://github.com/Flsun3d/Flsun_Speeder_Pad)) (Geralmente inclui downloads de firmware, manuais, etc.)
 * [Firmware Klipper para V400](https://github.com/Klipper3d/klipper) (Link geral para o Klipper, procure por configurações específicas da V400 em repositórios da comunidade ou na documentação do Klipper)  
 * [Perfis de Slicer para V400](#bookmark=id.64ca4abe0860) (Adicione links para perfis de Cura, PrusaSlicer, SuperSlicer, etc., que você encontrar ou criar)  
 * [Modificações e Upgrades Comuns](#bookmark=id.64ca4abe0860) (Links para repositórios no Printables, Thingiverse ou GitHub com designs de peças modificadas)  
