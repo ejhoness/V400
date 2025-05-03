@@ -38,11 +38,10 @@ A FLSun V400 é uma impressora 3D de alta velocidade que utiliza um sistema de m
 
 ### **Eletrônica**
 
-* **Placa-mãe:** Placa-mãe de 32 bits STM32F\*\*\* MKS Nano 2.1  
-* **Drivers de Motor de Passo:** Drivers de motor de passo silenciosos  
+* **Placa-mãe:** Placa-mãe de 32 bits STM32F103VET6 [MKS Nano 2.1](https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X/wiki"Mks_Wiki")
+* **Drivers de Motor de Passo:** Drivers de motor de passo silenciosos TMC 2226 
 * **Nivelamento da Cama:** Nivelamento automático  
-* **Conectividade:** Wi-Fi, USB, Ethernet  
-  * Drivers de Motor de Passo: TMC 2226  
+* **Conectividade:** Wi-Fi, USB, Ethernet   
 * **Tela de Toque:** LCD IPS de 7 polegadas  
 * **Entrada de energia:** AC 115-230V  
 * **Saída de energia:** DC 24V  
