@@ -6,7 +6,7 @@
 
 [Especificação Hardware](HardwareFLSunV400.md)
 
-[Manual](https://github.com/eeichhorn/Flsun-v400/blob/main/original-v400-USB-files/FlsunV400%20English%20Instruction%20Manual.pdf"Manual.Pdf)
+[Manual](https://github.com/eeichhorn/Flsun-v400/blob/main/original-v400-USB-files/FlsunV400%20English%20Instruction%20Manual.pdf "Manual.Pdf")
 
 Há com super promoção comprei um v400 via aliexpress. 01/05/2025
 56% desc. real... ou não hoje em preparação de envio.
