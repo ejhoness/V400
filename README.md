@@ -1,7 +1,8 @@
 # V400
+:heart_eyes:
 
 Há com super promoção comprei um v400 via aliexpress. 01/05/2025
-56% desc. real... ou não hoje em preparação de envio.
+56% desc. real... ou não? hoje em preparação de envio.
 
 ![compraatual](compra.png)
 
@@ -21,5 +22,12 @@ Há com super promoção comprei um v400 via aliexpress. 01/05/2025
 [Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax "Markdownlink")
 
 
-09/05/2024 é nada de envio... que pena. acho que mudar o titulo para ...
+09/05/2025 é nada de envio... que pena. acho que mudar o titulo para ...
+
+:disappointed_relieved:
 ![Resposta Vendedor](resposta.png)
+:disappointed_relieved:
+
+12/05/2025
+:rage: é propaganda enganosa... agora forçado a pedir reembolso, sem juros e sem presente. :´( :rage:
+:broken_heart:
