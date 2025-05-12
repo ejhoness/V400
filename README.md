@@ -22,3 +22,4 @@ Há com super promoção comprei um v400 via aliexpress. 01/05/2025
 
 
 09/05/2024 é nada de envio... que pena. acho que mudar o titulo para ...
+![Resposta Vendedor](resposta.png)
