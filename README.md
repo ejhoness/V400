@@ -30,6 +30,11 @@ Há com super promoção comprei um v400 via aliexpress. 01/05/2025
 
 12/05/2025
 
+![Resposta Aliexpress](closeorder.png)
+
+14/05/2025
+
+
 :rage: 
 é propaganda enganosa... agora forçado a pedir reembolso, sem juros e sem presente. :´( 
 :rage:
