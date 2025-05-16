@@ -1,6 +1,11 @@
 # V400
 :heart_eyes:
 
+![Resposta Aliexpress](email_promoçao.png)
+
+![Resposta Aliexpress](closeorder.png)
+
+
 Há com super promoção comprei um v400 via aliexpress. 01/05/2025
 56% desc. real... ou não? hoje em preparação de envio.
 
@@ -36,6 +41,12 @@ Há com super promoção comprei um v400 via aliexpress. 01/05/2025
 
 
 :rage: 
-é propaganda enganosa... agora forçado a pedir reembolso, sem juros e sem presente. :´( 
+é propaganda enganosa... agora forçado a pedir reembolso, sem presente. :´( 
 :rage:
+agora tem estoque ... 16/05/2025 falta de estoque apenas para nao cumprir o pedido. como no e-mail. como no pedido.
+
+![Resposta Aliexpress](email_promoçao.png)
+
+![Resposta Aliexpress](closeorder.png)
+
 :broken_heart:
