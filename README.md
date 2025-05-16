@@ -5,6 +5,8 @@
 
 ![Resposta Aliexpress](closeorder.png)
 
+![Resposta Aliexpress](now.png)
+
 
 Há com super promoção comprei um v400 via aliexpress. 01/05/2025
 56% desc. real... ou não? hoje em preparação de envio.
@@ -50,3 +52,4 @@ agora tem estoque ... 16/05/2025 falta de estoque apenas para nao cumprir o pedi
 ![Resposta Aliexpress](closeorder.png)
 
 :broken_heart:
+
