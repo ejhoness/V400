@@ -1,6 +1,10 @@
 # V400
 :heart_eyes:
 
+after order canceled, magically in stock again...
+because I bought a real promotion, there is no responsibility...
+
+
 ![Resposta Aliexpress](email_promocao.png)
 
 ![Resposta Aliexpress](closeorder.png)
