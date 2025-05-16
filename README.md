@@ -1,7 +1,7 @@
 # V400
 :heart_eyes:
 
-![Resposta Aliexpress](email_promoçao.png)
+![Resposta Aliexpress](email_promocao.png)
 
 ![Resposta Aliexpress](closeorder.png)
 
@@ -45,7 +45,7 @@ Há com super promoção comprei um v400 via aliexpress. 01/05/2025
 :rage:
 agora tem estoque ... 16/05/2025 falta de estoque apenas para nao cumprir o pedido. como no e-mail. como no pedido.
 
-![Resposta Aliexpress](email_promoçao.png)
+![Resposta Aliexpress](email_promocao.png)
 
 ![Resposta Aliexpress](closeorder.png)
 
